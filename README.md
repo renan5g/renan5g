@@ -1,5 +1,7 @@
 ## Olá, Prazer Renan!
 
+- Essa é uma conta nova os dados são da conta antiga
+
 <div align="">
   <a href="https://github.com/BaianoDeve">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaianoDeve&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
