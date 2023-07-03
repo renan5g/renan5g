@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/renan5g/" target="_blank">
   <img src="https://img.shields.io/badge/Renan%20Alves-blue?logo=linkedin&style=flat">
 </a>
-<a href="mailto:marciahelenalimac@gmail.com" target="_blank">
+<a href="mailto:renansilva.dev5g@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Renan%20Alves-blue?color=E02E23&logo=gmail&logoColor=fff&style=flat">
 </a>
 
