@@ -1,5 +1,5 @@
 <h1>Renan Alves. Full-Stack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p>Hey, my name is Renan, I'm a full stack development.</p>
+<p>Hi, my name is Renan, I'm a full stack development.</p>
 
 <a href="https://www.linkedin.com/in/renan5g/" target="_blank">
   <img src="https://img.shields.io/badge/Renan%20Alves-blue?logo=linkedin&style=flat">
