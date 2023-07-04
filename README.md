@@ -14,7 +14,7 @@ Bem-vindo(a) à minha página do Github! Estou cursando Ciência da Computação
 
 #### 🧠 Coisas em que estou trabalhando atualmente:
 - Terminar minha graduação
-- Concluir um site de Leitor de Mangás
+- Aprender inglês
 ##
 
 #### 🌱 Coisas com as quais estou me desafiando:
